@@ -9,7 +9,7 @@ function myPrint() {
 }
 
 const printName = myPrint();
-printName(); // Sansanee L.
+printName(); // Sansanee L. 
 
 /****
 Explanation:
